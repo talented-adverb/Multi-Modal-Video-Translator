@@ -1,4 +1,4 @@
-# Video_Translation_Project
+# Multi-Modal_Video_Translator_Project
 
 Please refer to the below for documentation and code
 <br>
